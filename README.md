@@ -1,1 +1,1 @@
-Predict Future Monthly Sales|| Hierarchical Time Series
+Predict Future Monthly Sales data using Hierarchical Time Series techniques.
